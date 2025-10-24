@@ -15,3 +15,6 @@ try:
     print("Your grade is:", calculate_grade(score))
 except ValueError:
     print("Please enter a valid number!")
+Fixed input validation.
+
+Fixes #4
